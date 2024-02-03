@@ -1,1 +1,4 @@
 Hello World !! - direct commit
+
+take input from user
+add them and return the result
