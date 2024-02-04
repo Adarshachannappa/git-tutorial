@@ -2,8 +2,4 @@ Admin service
 
 Given access to developer 1
 
-<<<<<<< HEAD
-new updates
-=======
 feature2 added
->>>>>>> 5182382e27d27881626f6982e6cbee70dbea2075
