@@ -25,3 +25,7 @@ git rm --cached file_Name
 
 - git branch
 - git checkout -b feature1
+
+- git switch -c feature2
+- git branch --all
+- git branch -d feature2
