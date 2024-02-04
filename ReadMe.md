@@ -29,3 +29,18 @@ git rm --cached file_Name
 - git switch -c feature2
 - git branch --all
 - git branch -d feature2
+
+**_git fetch & pull_**
+
+- git fetch
+  - it gives information about the latest updates on remote repo + git merge - to download and merge the latest to working directory
+- git pull origin master
+- git branch --set-upstream-to=origin/master master
+- git pull
+
+**_About branch information_**
+
+- git branch
+- git branch -l
+- git branch -r
+- git branch -all or -a
